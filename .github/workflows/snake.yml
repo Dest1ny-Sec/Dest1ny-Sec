@@ -1,12 +1,12 @@
 name: 🐍 Generate Snake
 
 on:
-  # 每周自动跑一次（cron UTC，周日午夜）
+  # 每周日 UTC 午夜
   schedule:
     - cron: "0 0 * * 0"
   # 手动触发
   workflow_dispatch:
-  # push 到 main 也跑（让你刚改完代码就能看到贪吃蛇）
+  # push 到 main 也跑
   push:
     branches: [main]
 
@@ -18,17 +18,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake game
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Dest1ny-Sec
-          svg_path: dist/github-snake.svg
-          gif_path: dist/github-snake.gif
-          # 调色板：用银河紫 + Heisenberg 蓝绿
-          palette: github-dark
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00D4AA&color_dots=#0d1117,#3A0CA3,#7B2CBF,#FF006E,#FFC107
+            dist/github-snake.svg?palette=github&color_snake=#7B2CBF&color_dots=#0d1117,#3A0CA3,#7B2CBF,#FF006E,#FFC107
+            dist/github-snake.gif?palette=github-dark&color_snake=#00D4AA
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4

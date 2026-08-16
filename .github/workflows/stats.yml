@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Generate stats / streak / languages SVGs
-        uses: jstrieb/github-stats@v2
+        uses: jstrieb/github-stats@2.0.1
         with:
           username: Dest1ny-Sec
         env:
