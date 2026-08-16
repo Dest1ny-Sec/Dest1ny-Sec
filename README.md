@@ -1,8 +1,7 @@
 <!-- ============================================================
-   Dest1ny-Sec · v2.3
+   Dest1ny-Sec · v2.4
    Tone: 流离之人追逐幻影
-   Fix: 弃用挂掉的 github-readme-stats.vercel.app，
-        pin 改表格，stats 改自部署 (jstrieb/github-stats)
+   Fix: 砍掉 stats section (vercel 服务挂了 + jstrieb 不再是 action)
    ============================================================ -->
 
 <div align="center">
@@ -56,22 +55,6 @@
 
 ---
 
-### signal
-
-<sub><i>updated daily by GitHub Actions · 100% self-hosted · 不依赖任何外部服务</i></sub>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/stats/stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/stats/streak.svg" />
-</p>
-<p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/stats/languages.svg" />
-</p>
-
-<br/>
-
----
-
 <sub><i>he eats my contributions. don't let him starve.</i></sub>
 
 <picture>
@@ -87,6 +70,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dest1ny-Sec&label=visitors&color=7B2CBF&style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/Dest1ny-Sec?label=followers&style=flat-square&color=00D4AA&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Dest1ny-Sec?label=stars&style=flat-square&color=FF006E&labelColor=0d1117" />
 </div>
 
 <br/>
