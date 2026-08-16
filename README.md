@@ -13,8 +13,6 @@
 
 # I hope everybody knows me.
 
-<sub>—— 还没说出口的那种</sub>
-
 <br/>
 
 > 流离之人追逐幻影。
