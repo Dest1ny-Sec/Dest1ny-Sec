@@ -22,20 +22,21 @@
 
 ---
 
-<!-- 贪吃蛇：紧贴 profile 顶部的 163 contributions 区域，无独立小标题 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/output/github-snake-dark.svg" />
-</picture>
+<sub><b>building</b> · <a href="https://github.com/Dest1ny-Sec/DesJsFinder">DesJsFinder</a> · <a href="https://github.com/Dest1ny-Sec/Des-CTF-Knowledge">Des-CTF-Knowledge</a> · <a href="https://github.com/Dest1ny-Sec/Luvv-MCP">Luvv-MCP</a> · <a href="https://github.com/Dest1ny-Sec/dhunter">dhunter</a></sub>
 
 <br/>
 
 ---
 
-<sub><b>building</b> · <a href="https://github.com/Dest1ny-Sec/DesJsFinder">DesJsFinder</a> · <a href="https://github.com/Dest1ny-Sec/Des-CTF-Knowledge">Des-CTF-Knowledge</a> · <a href="https://github.com/Dest1ny-Sec/Luvv-MCP">Luvv-MCP</a> · <a href="https://github.com/Dest1ny-Sec/dhunter">dhunter</a></sub>
+### stacks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,go,html,docker,linux,claude,redis,bash" alt="stacks" />
+</div>
+
 <br/>
-<sub><b>stacks</b> · Python · JavaScript · Go · Docker · Linux · Claude</sub>
+
+<sub><b>tools</b> · Burp · nmap · Metasploit · Claude Code · Wireshark · Frida</sub>
 
 <br/>
 
