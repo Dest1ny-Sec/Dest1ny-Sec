@@ -22,7 +22,7 @@
 
 ---
 
-<sub><b>building</b> · <a href="https://github.com/Dest1ny-Sec/DesJsFinder">DesJsFinder</a> · <a href="https://github.com/Dest1ny-Sec/Des-CTF-Knowledge">Des-CTF-Knowledge</a> · <a href="https://github.com/Dest1ny-Sec/Luvv-MCP">Luvv-MCP</a> · <a href="https://github.com/Dest1ny-Sec/dhunter">dhunter</a></sub>
+<sub><b>building</b> · <a href="https://github.com/Dest1ny-Sec/DesJsFinder">DesJsFinder</a> ★122 · <a href="https://github.com/Dest1ny-Sec/Des-CTF-Knowledge">Des-CTF-Knowledge</a> ★75 · <a href="https://github.com/Dest1ny-Sec/dhunter">dhunter</a> ★37 · <a href="https://github.com/Dest1ny-Sec/Luvv-MCP">Luvv-MCP</a> ★32 · <a href="https://github.com/Dest1ny-Sec/Des-java-auto-skill">Des-java-auto-skill</a> ★16 · <a href="https://github.com/Dest1ny-Sec/Desinter_scan">Desinter_scan</a> ★15 · <a href="https://github.com/Dest1ny-Sec/MoMo-agent">MoMo-agent</a></sub>
 
 <br/>
 
