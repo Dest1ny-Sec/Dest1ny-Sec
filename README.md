@@ -28,6 +28,24 @@
 
 ---
 
+### contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/output/github-snake-dark.svg" />
+</picture>
+
+### stats
+
+<div align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/stats/github-stats-green.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/stats/github-top-langs.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/Dest1ny-Sec/Dest1ny-Sec/stats/github-streak-stats.svg" />
+</div>
+
+---
+
 ### stacks
 
 <div align="center">
