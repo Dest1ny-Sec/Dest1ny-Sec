@@ -52,6 +52,16 @@
 
 ---
 
+### trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dest1ny-Sec&theme=radical&no-frame=true&column=4&margin-w=8" alt="trophies" />
+</div>
+
+<br/>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dest1ny-Sec&label=visitors&color=7B2CBF&style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/Dest1ny-Sec?label=followers&style=flat-square&color=00D4AA&labelColor=0d1117" />
