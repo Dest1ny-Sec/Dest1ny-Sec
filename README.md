@@ -39,8 +39,8 @@
 ### stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dest1ny-Sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dest1ny-Sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Dest1ny-Sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Dest1ny-Sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 <br/>
 <div align="center">
